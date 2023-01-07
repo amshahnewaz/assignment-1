@@ -97,4 +97,25 @@ nav {
     font-weight: 700;
     font-size: 40px;
 }
+
 /*call now*/
+.call-gradient {
+    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    mix-blend-mode: multiply;
+    width: 1140px;
+    height: 300px;
+}
+
+.call-head {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.call-button {
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+}
